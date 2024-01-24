@@ -1,0 +1,10 @@
+com/gasparbarancelli/multitenant/config/MultiTenantConnectionProviderImpl.class
+com/gasparbarancelli/multitenant/config/CurrentTenantIdentifierResolverImpl.class
+com/gasparbarancelli/multitenant/config/TenantContext.class
+com/gasparbarancelli/multitenant/config/WebMvcConfig.class
+com/gasparbarancelli/multitenant/person/Person.class
+com/gasparbarancelli/multitenant/MultiTenantApplication.class
+com/gasparbarancelli/multitenant/person/PersonController.class
+com/gasparbarancelli/multitenant/config/TenantInterceptor.class
+com/gasparbarancelli/multitenant/person/PersonRepository.class
+com/gasparbarancelli/multitenant/config/HibernateConfig.class
